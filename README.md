@@ -1,5 +1,5 @@
 <h1>Book Summarize Web App</h1>
-<hr>
+
 <h2>Used Tech</h2>
 <hr>
 <p>React.js and Local Server (ChatGPT for book summarize)</p>

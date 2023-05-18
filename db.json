@@ -1,0 +1,166 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "summary": "Crime and Punishment is a novel by Fyodor Dostoevsky, published in 1866. It tells the story of Rodion Raskolnikov, a impoverished ex-student in St. Petersburg. Raskolnikov, believing himself to be an extraordinary person exempt from moral obligations, plans and executes the murder of an old pawnbroker. However, he is tormented by guilt and psychological turmoil following the act. The novel explores the themes of morality, redemption, and the consequences of one's actions. Raskolnikov's crime serves as a vehicle to delve into the complexities of human nature and the internal struggle between good and evil. Throughout the narrative, Dostoevsky offers a profound analysis of the human psyche, exposing the psychological and moral dilemmas faced by the characters. Raskolnikov's actions draw the attention of the cunning investigator, Porfiry Petrovich, who suspects his involvement in the crime. Meanwhile, Raskolnikov's sister, Dunya, becomes engaged to Luzhin, a wealthy man with ulterior motives. Raskolnikov's friend, Razumikhin, stands by his side, providing support and friendship during his troubled times. As the story progresses, Raskolnikov becomes increasingly tormented by his guilt, and his mental state deteriorates. He encounters Sonya, a young woman forced into prostitution to support her family. Sonya's unwavering faith and moral strength serve as a catalyst for Raskolnikov's eventual redemption. In the climax, Raskolnikov confesses his crime to Sonya and seeks redemption through his suffering. He is ultimately brought to a point of remorse and realization, recognizing the value of human life and the need to accept responsibility for his actions. The novel concludes with Raskolnikov's decision to confess his crime to the authorities, embracing his punishment as a means of redemption and finding a path to spiritual renewal. Crime and Punishment is a psychologically complex and morally probing work that delves into the depths of human consciousness. Dostoevsky's exploration of guilt, morality, and redemption continues to captivate readers, making the novel a classic of Russian literature.",
+      "image": "https://picsum.photos/200",
+      "year": 1866
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "summary": "To Kill a Mockingbird is a novel by Harper Lee, published in 1960. Set in the fictional town of Maycomb, Alabama during the Great Depression, the story follows Scout Finch, a young girl growing up in a racially divided community. Through Scout's perspective, the novel explores themes of racism, injustice, and the loss of innocence. Her father, Atticus Finch, a lawyer, defends a black man falsely accused of raping a white woman, challenging the deeply ingrained prejudices of the town. The novel portrays the struggles and moral dilemmas faced by Scout and her brother Jem as they witness the injustice and hypocrisy of the adult world. To Kill a Mockingbird is a powerful exploration of compassion, empathy, and the fight for justice.",
+      "image": "https://picsum.photos/201",
+      "year": 1960
+    },
+
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "summary": "1984 is a dystopian novel by George Orwell, published in 1949. Set in a totalitarian society ruled by the Party and its leader, Big Brother, the story follows Winston Smith, a low-ranking member of the Party who begins to question the oppressive regime. As Winston rebels against the Party's control and surveillance, he embarks on a dangerous journey of self-discovery and resistance. The novel explores themes of totalitarianism, government surveillance, censorship, and the power of language. It serves as a chilling warning about the dangers of authoritarianism and the importance of individual freedom.",
+      "image": "https://picsum.photos/202",
+      "year": 1949
+    },
+
+    {
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "summary": "Pride and Prejudice is a novel by Jane Austen, published in 1813. Set in rural England during the early 19th century, the story revolves around the Bennet family and their five unmarried daughters. The protagonist, Elizabeth Bennet, is a witty and independent young woman who initially clashes with the wealthy and proud Mr. Darcy. As the novel unfolds, Elizabeth's prejudice and Darcy's pride are challenged, leading to a gradual change in their feelings towards each other. The novel explores themes of social class, marriage, love, and the power of first impressions. With its engaging characters and sharp social commentary, Pride and Prejudice has become one of Austen's most beloved works.",
+      "image": "https://picsum.photos/203",
+      "year": 1813
+    },
+    {
+      "id": 5,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "summary": "The Great Gatsby is a novel by F. Scott Fitzgerald, published in 1925. Set in the glamorous and decadent Jazz Age, the story follows Jay Gatsby, a mysterious millionaire, as seen through the eyes of Nick Carraway, a young man from the Midwest. Gatsby is known for his extravagant parties and his relentless pursuit of Daisy Buchanan, a married woman he has loved since his youth. The novel explores themes of wealth, love, illusion, and the corrupting power of the American Dream. Fitzgerald's masterful prose and vivid portrayal of the Roaring Twenties have made The Great Gatsby a classic of American literature.",
+      "image": "https://picsum.photos/204",
+      "year": 1925
+    },
+    {
+      "id": 6,
+      "title": "My Name is Red",
+      "author": "Orhan Pamuk",
+      "summary": "My Name is Red is a novel by Orhan Pamuk, a Turkish author and Nobel laureate. Set in 16th-century Istanbul, the story revolves around the murder of a miniaturist in the Ottoman Empire. The narrative is told from multiple perspectives, revealing the intricacies of art, love, and religion. Pamuk's storytelling and rich descriptions offer a mesmerizing exploration of Turkish history and culture.",
+      "image": "https://picsum.photos/205",
+      "year": 1998
+    },
+    {
+      "id": 7,
+      "title": "The Flea Palace",
+      "author": "Elif Şafak",
+      "summary": "The Flea Palace is a novel by Elif Şafak, a prominent Turkish author. The story is set in an apartment building in Istanbul known as BonBon Palace, where a diverse group of characters reside. Through their lives, Şafak explores themes of identity, belonging, and the complexities of urban life. The Flea Palace offers a vivid and compassionate portrayal of contemporary Turkey.",
+      "image": "https://picsum.photos/206",
+      "year": 2002
+    },
+    {
+      "id": 8,
+      "title": "Snow",
+      "author": "Orhan Pamuk",
+      "summary": "Snow is a novel by Orhan Pamuk, a Turkish author and Nobel laureate. The story takes place in the town of Kars, a remote city in northeastern Turkey, during a snowstorm. It delves into the political and cultural dynamics of the region, exploring themes of religion, identity, and East-West relations. Pamuk's evocative prose and thought-provoking narrative make Snow a compelling read.",
+      "image": "https://picsum.photos/207",
+      "year": 2002
+    },
+    {
+      "id": 9,
+      "title": "Istanbul: Memories and the City",
+      "author": "Orhan Pamuk",
+      "summary": "Istanbul: Memories and the City is a memoir by Orhan Pamuk, a Turkish author and Nobel laureate. In this book, Pamuk reflects on his personal experiences and memories of Istanbul, his hometown. He delves into the city's history, culture, and transformation over time. The memoir offers a blend of personal anecdotes, cultural observations, and philosophical reflections, providing readers with a unique insight into Istanbul's past and present.",
+      "image": "https://picsum.photos/208",
+      "year": 2003
+    },
+    {
+      "id": 10,
+      "title": "The Time Regulation Institute",
+      "author": "Ahmet Hamdi Tanpınar",
+      "summary": "The Time Regulation Institute is a novel by Ahmet Hamdi Tanpınar, a renowned Turkish author. The story follows the life of Hayri İrdal, an eccentric man who establishes an institution to regulate and control time. Through İrdal's experiences, Tanpınar explores themes of modernity, tradition, and the passage of time in Turkish society. The Time Regulation Institute is a thought-provoking and introspective work.",
+      "image": "https://picsum.photos/209",
+      "year": 1962
+    },
+    {
+      "id": 11,
+      "title": "The Museum of Innocence",
+      "author": "Orhan Pamuk",
+      "summary": "The Museum of Innocence is a novel by Orhan Pamuk, a Turkish author and Nobel laureate. The story is set in Istanbul and spans several decades, following the life of Kemal, a wealthy businessman, and his obsessive love for a distant relative named Fusun. The novel explores themes of love, memory, and the power of objects to evoke emotions. Pamuk intertwines the narrative with a physical museum in Istanbul that exhibits everyday objects related to the characters and their experiences.",
+      "image": "https://picsum.photos/210",
+      "year": 2008
+    },
+    {
+      "id": 12,
+      "title": "Silent House",
+      "author": "Orhan Pamuk",
+      "summary": "Silent House is a novel by Orhan Pamuk, a Turkish author and Nobel laureate. Set in a small village in rural Turkey, the story takes place over the course of a single day and follows the members of a wealthy Istanbul family as they gather in their ancestral home. The novel delves into the family's secrets, relationships, and the changing dynamics of Turkish society. Pamuk's rich prose and introspective exploration of characters make Silent House a thought-provoking read.",
+      "image": "https://picsum.photos/201",
+      "year": 1983
+    },
+    {
+      "id": 13,
+      "title": "İnce Memed",
+      "author": "Yaşar Kemal",
+      "summary": "İnce Memed, Türk yazar Yaşar Kemal'in en ünlü romanlarından biridir. Roman, Güneydoğu Anadolu'nun dağlık bir köyünde geçer ve ana karakteri İnce Memed'in yaşamını anlatır. İnce Memed, zalim bir ağanın köy halkını sömürmesine karşı çıkar ve adaleti sağlamak için mücadele eder. Roman, sosyal adalet, özgürlük, dostluk ve aşk gibi temaları işler ve Anadolu'nun zorlu yaşam koşullarını etkileyici bir şekilde tasvir eder.",
+      "image": "https://picsum.photos/202",
+      "year": 1955
+    },
+    {
+      "id": 14,
+      "title": "Sarı Sıcak",
+      "author": "Sebahattin Ali",
+      "summary": "Sarı Sıcak, Türk yazar Sebahattin Ali'nin ünlü bir romanıdır. Roman, 1930'lu yıllarda geçer ve İstanbul'un kenar mahallelerinde yaşayan fakir bir ailenin hikayesini anlatır. Baş karakter olan Mahmut'un, hayatta kalmak için verdiği mücadeleyi ve ailesinin zorlu yaşam koşullarını ele alır. Sarı Sıcak, yoksulluk, dayanışma ve umut gibi temaları işler ve insanın içindeki gücünü ortaya çıkarır.",
+      "image": "https://picsum.photos/203",
+      "year": 1943
+    },
+    {
+      "id": 15,
+      "title": "Aşk",
+      "author": "Elif Şafak",
+      "summary": "Aşk, Türk yazar Elif Şafak'ın bir romandır. Roman, iki farklı zaman diliminde geçer. Bir yanda, 13. yüzyılda Mevlana'nın yaşamı ve aşkı anlatılırken diğer yanda, günümüzde bir kadının modern İstanbul'da aşkı keşfetme yolculuğu işlenir. Aşk, din, aidiyet, ve insan ilişkileri gibi derin temaları ele alır ve Şafak'ın akıcı ve etkileyici üslubuyla okuyucuyu sürükler.",
+      "image": "https://picsum.photos/204",
+      "year": 2009
+    },
+    {
+      "id": 16,
+      "title": "Sultanı Öldürmek",
+      "author": "Ahmet Ümit",
+      "summary": "Sultanı Öldürmek, Türk yazar Ahmet Ümit'in bir polisiye romanıdır. Roman, İstanbul'un tarihi ve kültürel dokusunda geçer ve bir cinayeti çözmek için çalışan bir dedektifin hikayesini anlatır. Kitap, tarih, siyaset, ve toplumsal meseleleri ustalıkla harmanlar ve gerilim dolu bir atmosfer sunar. Sultanı Öldürmek, okuyucuları sürükleyen bir kurguya ve sürprizlere sahiptir.",
+      "image": "https://picsum.photos/205",
+      "year": 1998
+    },
+    {
+      "id": 17,
+      "title": "Kürk Mantolu Madonna",
+      "author": "Sabahattin Ali",
+      "summary": "Kürk Mantolu Madonna, Türk yazar Sabahattin Ali'nin ünlü bir romanıdır. Roman, bir ressamın hikayesini anlatır. Ressam, İstanbul'da tanıştığı genç ve güzel bir kadına aşık olur ve onunla olan ilişkisini aktarır. Ancak, aralarındaki sınıf farkı ve toplumsal baskılar ilişkilerini zorlar. Kürk Mantolu Madonna, aşk, kayıp, ve insanın iç dünyasını derinlemesine ele alır.",
+      "image": "https://picsum.photos/206",
+      "year": 1943
+    },
+    {
+      "id": 18,
+      "title": "İstanbul Hatırası",
+      "author": "Ahmet Ümit",
+      "summary": "İstanbul Hatırası, Türk yazar Ahmet Ümit'in bir romanıdır. Roman, İstanbul'un tarihi ve kültürel atmosferinde geçer. Ana karakter, bir araştırmacı gazetecidir ve gizemli bir cinayeti çözmek için harekete geçer. Kitap, İstanbul'un geçmişi ve günümüzü harmanlar, toplumsal sorunlara ışık tutar ve okuyucuyu sürükleyici bir maceraya çeker.",
+      "image": "https://picsum.photos/207",
+      "year": 2005
+    },
+    {
+      "id": 19,
+      "title": "Aşk-ı Memnu",
+      "author": "Halit Ziya Uşaklıgil",
+      "summary": "Aşk-ı Memnu, Türk yazar Halit Ziya Uşaklıgil'in ünlü bir romanıdır. Roman, 19. yüzyıl İstanbul'unda geçer ve zengin bir ailenin dramatik hikayesini anlatır. Ana karakter, Bihter, sınırlamalara ve toplumun beklentilerine rağmen yasak bir aşk yaşar. Aşk-ı Memnu, aşkın sınırlarını, toplumsal normları ve ahlaki değerleri sorgular.",
+      "image": "https://picsum.photos/208",
+      "year": 1899
+    },
+    {
+      "id": 20,
+      "title": "Tutunamayanlar",
+      "author": "Oğuz Atay",
+      "summary": "Tutunamayanlar, Türk yazar Oğuz Atay'ın en önemli eserlerinden biridir. Roman, bir mühendisin iç monologları şeklinde ilerler ve toplumun tutunamama durumunu ele alır. Kitap, bireysel kimlik arayışı, aidiyet, ve varoluşsal meseleleri sorgular. Tutunamayanlar, yaratıcı anlatımı ve derin düşünceleri ile okuyucuları etkiler.",
+      "image": "https://picsum.photos/209",
+      "year": 1971
+    }
+  ]
+}
